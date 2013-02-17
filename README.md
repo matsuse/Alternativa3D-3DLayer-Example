@@ -5,5 +5,3 @@ Alternativa3D 8 Modified Version "3D Layer" Example.
 
 ## basic  
 3D Layer Simple Example.  
-
-![画像](basic.png)
