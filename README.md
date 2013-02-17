@@ -12,7 +12,7 @@ Four scenes are compounded like one screen and expressed as this sample.
 1. Background
 2. Ball
 3. Box
-4. Hud
+4. HUD
 
 Each scene is compounded like the layer of PhotoShop.  
 
